@@ -1,4 +1,4 @@
-markdown
+
 
 # Google Trends Analysis for Trading
 
