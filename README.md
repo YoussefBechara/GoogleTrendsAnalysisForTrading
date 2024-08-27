@@ -29,7 +29,10 @@ cd GoogleTrendsAnalysisForTrading
 3. Install required dependencies:
 
 pip install -r requirements.txt
+ 
+4. If you want to use hugchat LLM, follow the installation of this repository by Soulter: https://github.com/Soulter/hugging-chat-api
 
+5. If you want to use Claude LLM, follow the installation of this repository by st1vms: https://github.com/st1vms/unofficial-claude-api 
 
 ## Usage
 
